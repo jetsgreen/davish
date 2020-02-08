@@ -9,6 +9,9 @@
 p {
   text-align: center;
   font-family: 'Acme', sans-serif;
+  color: white;
+  background-color: black;
+  
 }
 
 .score-board {
@@ -18,9 +21,18 @@ p {
 
 .jumbotron {
   background-image: url("https://s.abcnews.com/images/GMA/FrozenAreinWDS_hpMain_16x9t_1600.jpg");
-  position: relative;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
   
 }
  
+.scores {
+  font-family: 'Acme', sans-serif;
+  font-size: 30px;
+  color: white;
+  
+}
 
 

@@ -9,9 +9,7 @@ function Title(props) {
     
  <div className = "score-board">
     <div className="header">{props.children}</div>
-    <div className="scores">
-      Score: {props.score} Highscore: {props.highscore}
-    </div>
+    
     </div>
   
 
