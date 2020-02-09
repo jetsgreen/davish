@@ -22,4 +22,4 @@ This is a front-end application built with React.js.  It extends components from
 
 # Play the game for yourselve, Have fun!!!!
 
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+[Click me to play](https://github.com/user/repo/blob/branch/other_file.md)
