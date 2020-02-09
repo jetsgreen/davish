@@ -15,7 +15,11 @@
   background:#6CADDC;
 }
 
-
+.img-container:hover{
+  cursor: pointer;
+  background: white;
+  
+}
 .img {
   height: 175px;
   width: 175px;
@@ -29,6 +33,7 @@
 
 #btn {
   text-align: center;
+  background: white;
 }
 
 
